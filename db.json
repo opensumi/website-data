@@ -1,0 +1,32 @@
+{
+  "notifications": [
+    {
+      "type": "论坛",
+      "title": "QCon 全球软件开发大会",
+      "date": "2022.5.12",
+      "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
+      "lang": "zh"
+    },
+    {
+      "type": "论坛",
+      "title": "2021 年前端早早聊 CloudIDE 专场",
+      "date": "2021.11.20",
+      "link": "https://www.zaozao.run/video/c34",
+      "lang": "zh"
+    },
+    {
+      "type": "Forum",
+      "title": "Global Software Development Conference",
+      "date": "2022.5.12",
+      "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
+      "lang": "en"
+    },
+    {
+      "type": "Forum",
+      "title": "Early Chat On The Frontend",
+      "date": "2021.11.20",
+      "link": "https://www.zaozao.run/video/c34",
+      "lang": "zh"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "notifications": [
+        {
+          "type": "论坛",
+          "title": "QCon 全球软件开发大会",
+          "date": "2022.5.12",
+          "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
+          "lang": "zh"
+        },
+        {
+          "type": "论坛",
+          "title": "2021 年前端早早聊 CloudIDE 专场",
+          "date": "2021.11.20",
+          "link": "https://www.zaozao.run/video/c34",
+          "lang": "zh"
+        },
+        {
+          "type": "Forum",
+          "title": "Global Software Development Conference",
+          "date": "2022.5.12",
+          "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
+          "lang": "en"
+        },
+        {
+          "type": "Forum",
+          "title": "Early Chat On The Frontend",
+          "date": "2021.11.20",
+          "link": "https://www.zaozao.run/video/c34",
+          "lang": "zh"
+        }
+      ]
+    }
+  ],
+  "required": ["notifications"],
+  "properties": {
+    "notifications": {
+      "$id": "#/properties/notifications",
+      "type": "array",
+      "title": "The notifications schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "type": "论坛",
+            "title": "第十五届 D2 前端技术论坛·无界",
+            "date": "2020.12.19",
+            "link": "https://d2.alibabatech.com/",
+            "lang": "zh"
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/notifications/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/notifications/items/anyOf/0",
+            "type": "object",
+            "title": "The first anyOf schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": {},
+            "examples": [
+              {
+                "type": "论坛",
+                "title": "QCon 全球软件开发大会",
+                "date": "2022.5.12",
+                "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
+                "lang": "zh"
+              }
+            ],
+            "required": ["type", "title", "date", "link", "lang"],
+            "properties": {
+              "type": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/type",
+                "type": "string",
+                "title": "The type schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["论坛"]
+              },
+              "title": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/title",
+                "type": "string",
+                "title": "The title schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["第十五届 D2 前端技术论坛·无界"]
+              },
+              "date": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/date",
+                "type": "string",
+                "title": "The date schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["2020.12.19"]
+              },
+              "link": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/link",
+                "type": "string",
+                "title": "The link schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["https://d2.alibabatech.com/"]
+              },
+              "lang": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/lang",
+                "type": "string",
+                "title": "The lang schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["zh"]
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

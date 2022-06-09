@@ -3,28 +3,28 @@
     {
       "type": "论坛",
       "title": "QCon 全球软件开发大会",
-      "date": "2022.6.22",
+      "date": "待定",
       "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
       "lang": "zh"
     },
     {
       "type": "论坛",
       "title": "GMTC 全球大前端技术大会",
-      "date": "2022.6.10",
+      "date": "待定",
       "link": "https://gmtc.infoq.cn/2022/beijing/track/1324",
       "lang": "zh"
     },
     {
       "type": "Forum",
       "title": "Global Software Development Conference",
-      "date": "2022.6.22",
+      "date": "Pending",
       "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
       "lang": "en"
     },
     {
       "type": "Forum",
       "title": "GMTC Development Conference",
-      "date": "2022.6.10",
+      "date": "Pending",
       "link": "https://gmtc.infoq.cn/2022/beijing/track/1324",
       "lang": "en"
     }

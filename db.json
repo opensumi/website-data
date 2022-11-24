@@ -24,6 +24,13 @@
     {
       "type": "Forum",
       "title": "Global Software Development Conference",
+      "date": "2022.11.25 - 2022.11.26",
+      "link": "https://qcon.infoq.cn/2022/shanghai/presentation/5136",
+      "lang": "en"
+    },
+    {
+      "type": "Forum",
+      "title": "Global Software Development Conference",
       "date": "2022.12.18 - 2022.12.20",
       "link": "https://qcon.infoq.cn/2022/beijing/presentation/4503",
       "lang": "en"

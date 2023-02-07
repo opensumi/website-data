@@ -1,15 +1,15 @@
 {
   "notifications": [
     {
-      "type": "论坛",
-      "title": "QCon - 前端新基建",
+      "type": "QCon",
+      "title": "OpenSumi 演进之路",
       "date": "2023.2.5 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/4503",
       "lang": "zh"
     },
     {
-      "type": "论坛",
-      "title": "QCon - 研发效能提升",
+      "type": "QCon",
+      "title": "淘系云研发体系实践",
       "date": "2023.2.6 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
       "lang": "zh"

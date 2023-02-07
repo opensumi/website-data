@@ -2,16 +2,16 @@
   "notifications": [
     {
       "type": "论坛",
-      "title": "QCon 全球软件开发大会",
+      "title": "QCon - 前端新基建",
       "date": "2023.2.5 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/4503",
       "lang": "zh"
     },
     {
       "type": "论坛",
-      "title": "GMTC 全球大前端技术大会",
+      "title": "QCon - 研发效能提升",
       "date": "2023.2.6 - 2023.2.7",
-      "link": "https://gmtc.infoq.cn/2022/beijing/track/1324",
+      "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
       "lang": "zh"
     },
     {
@@ -23,9 +23,9 @@
     },
     {
       "type": "Forum",
-      "title": "GMTC Development Conference",
+      "title": "Global Software Development Conference",
       "date": "2023.2.6 - 2023.2.7",
-      "link": "https://gmtc.infoq.cn/2022/beijing/track/1324",
+      "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
       "lang": "en"
     }
   ]

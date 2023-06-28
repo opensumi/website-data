@@ -2,6 +2,13 @@
   "notifications": [
     {
       "type": "QCon",
+      "title": "云原生 CloudIDE 技术与架构",
+      "date": "2022.11.25 - 2022.11.26",
+      "link": "https://qcon.infoq.cn/2022/shanghai/presentation/5136",
+      "lang": "zh"
+    },
+    {
+      "type": "QCon",
       "title": "OpenSumi 演进之路",
       "date": "2023.2.5 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/4503",
@@ -13,6 +20,13 @@
       "date": "2023.2.6 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
       "lang": "zh"
+    },
+    {
+      "type": "Forum",
+      "title": "Global Software Development Conference",
+      "date": "2022.11.25 - 2022.11.26",
+      "link": "https://qcon.infoq.cn/2022/shanghai/presentation/5136",
+      "lang": "en"
     },
     {
       "type": "Forum",

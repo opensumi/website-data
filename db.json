@@ -1,6 +1,34 @@
 {
   "notifications": [
     {
+      "type": "SDConf",
+      "title": "大模型时代企业如何打造专属 AI 原生 IDE",
+      "date": "2024.07.04 - 2023.07.05",
+      "link": "http://sdcon.com.cn/",
+      "lang": "zh"
+    },
+    {
+      "type": "SEConf",
+      "title": "大模型时代企业如何打造专属 AI 原生 IDE",
+      "date": "2024.06.28 - 2023.06.28",
+      "link": "https://www.secon.com.cn/AI",
+      "lang": "zh"
+    },
+    {
+      "type": "开放原子开发者大会",
+      "title": "纯前端 IDE 基础框架 CodeBlitz 架构与应用",
+      "date": "2023.12.17 - 2023.12.17",
+      "link": "https://openatomcon.openatom.cn/agenda",
+      "lang": "zh"
+    },
+    {
+      "type": "外滩大会",
+      "title": "极速版 IDE 框架 CodeBlitz 正式开源",
+      "date": "2023.09.09 - 2022.09.11",
+      "link": "https://www.inclusionconf.com/prev/2023",
+      "lang": "zh"
+    },
+    {
       "type": "开放原子",
       "title": "OpenSumi X AtomGit：WebIDE 与代码托管的合作实践",
       "date": "2023.06.11 - 2022.06.13",
@@ -33,6 +61,13 @@
       "title": "淘系云研发体系实践",
       "date": "2023.2.6 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
+      "lang": "zh"
+    },
+    {
+      "type": "InclusionConf",
+      "title": "CodeBlitz, Web IDE framework, is officially open source",
+      "date": "2023.09.09 - 2022.09.11",
+      "link": "https://www.inclusionconf.com/prev/2023",
       "lang": "zh"
     },
     {

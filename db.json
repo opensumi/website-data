@@ -1,6 +1,13 @@
 {
   "notifications": [
     {
+      "type": "开放原子",
+      "title": "OpenSumi X AtomGit：WebIDE 与代码托管的合作实践",
+      "date": "2023.06.11 - 2022.06.13",
+      "link": "https://openatom.org/summit/2023/index/main",
+      "lang": "zh"
+    },
+    {
       "type": "QCon",
       "title": "云原生 CloudIDE 技术与架构",
       "date": "2022.11.25 - 2022.11.26",
@@ -19,6 +26,20 @@
       "title": "淘系云研发体系实践",
       "date": "2023.2.6 - 2023.2.7",
       "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
+      "lang": "zh"
+    },
+    {
+      "type": "QCon",
+      "title": "淘系云研发体系实践",
+      "date": "2023.2.6 - 2023.2.7",
+      "link": "https://qcon.infoq.cn/202302/beijing/presentation/5159",
+      "lang": "zh"
+    },
+    {
+      "type": "OepnAtom",
+      "title": "OpenSumi X AtomGit: Collaborative Practice between WebIDE and Code Hosting",
+      "date": "2023.06.11 - 2022.06.13",
+      "link": "https://openatom.org/summit/2023/index/main",
       "lang": "zh"
     },
     {

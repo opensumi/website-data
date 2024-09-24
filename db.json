@@ -3,15 +3,22 @@
     {
       "type": "SDConf",
       "title": "大模型时代企业如何打造专属 AI 原生 IDE",
-      "date": "2024.07.04 - 2023.07.05",
+      "date": "2024.07.04 - 2024.07.05",
       "link": "http://sdcon.com.cn/",
       "lang": "zh"
     },
     {
-      "type": "SEConf",
+      "type": "SECon",
       "title": "大模型时代企业如何打造专属 AI 原生 IDE",
-      "date": "2024.06.28 - 2023.06.28",
+      "date": "2024.06.28 - 2024.06.28",
       "link": "https://www.secon.com.cn/AI",
+      "lang": "zh"
+    },
+    {
+      "type": "SECon",
+      "title": "AI 浪潮下，IDE 还能这么玩？",
+      "date": "2024.06.28 - 2024.06.28",
+      "link": "https://www.secon.vip/DQD4",
       "lang": "zh"
     },
     {
@@ -76,6 +83,34 @@
       "date": "2023.06.11 - 2022.06.13",
       "link": "https://openatom.org/summit/2023/index/main",
       "lang": "zh"
+    },
+    {
+      "type": "SDConf",
+      "title": "How Enterprises Build Exclusive AI Native IDEs in the Era of Large Models",
+      "date": "2024.07.04 - 2024.07.05",
+      "link": "http://sdcon.com.cn/",
+      "lang": "en"
+    },
+    {
+      "type": "SECon",
+      "title": "How Enterprises Build Exclusive AI Native IDEs in the Era of Large Models",
+      "date": "2024.06.28 - 2024.06.28",
+      "link": "https://www.secon.com.cn/AI",
+      "lang": "en"
+    },
+    {
+      "type": "SECon",
+      "title": "How to Play with IDEs in the Wave of AI?",
+      "date": "2024.06.28 - 2024.06.28",
+      "link": "https://www.secon.vip/DQD4",
+      "lang": "en"
+    },
+    {
+      "type": "Open Atom Developer Conference",
+      "title": "Architecture and Applications of Pure Front-end IDE Framework CodeBlitz",
+      "date": "2023.12.17 - 2023.12.17",
+      "link": "https://openatomcon.openatom.cn/agenda",
+      "lang": "en"
     },
     {
       "type": "Forum",
